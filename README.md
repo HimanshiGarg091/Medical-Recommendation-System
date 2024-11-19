@@ -6,14 +6,20 @@ This project focuses on developing a Medicine Recommendation System that helps u
 - Symptom Input: Users can input their symptoms to get suggestions for possible medicines.
 - Efficient Recommendations: Machine learning models trained on medical data ensure accurate predictions.
 
-## Requirements
+## Prerequisites
 - Python (version 3.7 or above) 
 - Required libraries:
     - pandas
     - sklearn
     - matplotlib 
     - seaborn
+  Install dependencies using:
+    ```bash
+        pip install -r requirements.txt
+    ```
+
 ## How to Run
+1. Clone the repository
 ```bash
   git clone https://github.com/HimanshiGarg091/Medical-recommendation-system.git
 ```
