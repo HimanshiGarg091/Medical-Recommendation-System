@@ -13,7 +13,7 @@ This project focuses on developing a Medicine Recommendation System that helps u
     - sklearn
     - matplotlib 
     - seaborn
-  Install dependencies using:
+Install dependencies using:
     ```bash
         pip install -r requirements.txt
     ```
