@@ -23,6 +23,10 @@ This project focuses on developing a Medicine Recommendation System that helps u
 ```bash
   git clone https://github.com/HimanshiGarg091/Medical-recommendation-system.git
 ```
+2. Navigate to the project directory:
+```bash
+  cd medicine-recommendation-system
+```
 ## Results
 The system demonstrates high accuracy in recommending medicines based on user symptoms. It simplifies the process of identifying relevant medications.
 
